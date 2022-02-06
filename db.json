@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Rose",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Rosa_Ingrid_Bergman_2018-07-16_6611_%28cropped%29.jpg",
+      "price": "21.99",
+      "id": 8
+    },
+    {
+      "name": "Pointless Plants",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpointlessplants.com%2Fcollections%2Fall-houseplants&psig=AOvVaw0U_0Ptv62PgypAKTxrXB4_&ust=1644220885526000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKia5KDO6vUCFQAAAAAdAAAAABAF",
+      "price": 5,
+      "id": 9
     }
   ]
 }
